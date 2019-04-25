@@ -9,12 +9,10 @@ I have an experience of three years as a Software Engineer mostly in back-end an
 
 I, currently, work at Barclays, New York as a Data Science Developer. I work on models that help analysts at the investment bank predict the stock market and the world economy. 
 
-<p> Listing some of my personal projects, here:<br>
-<a href="https://bitbucket.org/thisisdevanshu/elixir/src/master/proj4.1/bitcoin/">Cryptocurrency using blockchain</a> 
-<a href="https://bitbucket.org/thisisdevanshu/skynet/src/master/">Landmark detection using Deep Convolutional Neural Networks</a> 
-<a href="https://bitbucket.org/thisisdevanshu/cap6610machinelearning/src/master/">Hyperspectral Image Segmentation using various clustering algorithms</a></p>
+<p> Listing some of my personal projects, here:
+<a href="https://bitbucket.org/thisisdevanshu/elixir/src/master/proj4.1/bitcoin/">1. Cryptocurrency using blockchain</a> 
+<a href="https://bitbucket.org/thisisdevanshu/skynet/src/master/">2. Landmark detection using Deep Convolutional Neural Networks</a> 
+<a href="https://bitbucket.org/thisisdevanshu/cap6610machinelearning/src/master/">3. Hyperspectral Image Segmentation using various clustering algorithms</a></p>
 For more projects visit <a href="https://www.linkedin.com/in/devanshusingh2/">LinkedIn</a>
-
 <!-- slightdelayhere-->Feel free to contact me at my email <!-- longlonglongcomment --><a href="thisisdevanshu@gmail.com">Email</a>.
-
 <p>Thanks.</p>
