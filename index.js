@@ -84,17 +84,17 @@ var Typer={
 }
  
 function replaceUrls(text) {
-	var http = text.indexOf("http://");
-	var space = text.indexOf(".me ", http);
+	//var http = text.indexOf("http://");
+	//var space = text.indexOf(".me ", http);
 	
-	if (space != -1) { 
-		var url = text.slice(http, space-1);
-		return text.replace(url, "<a href=\""  + url + "\">" + url + "</a>");
-	} 
+	//if (space != -1) { 
+	//	var url = text.slice(http, space-1);
+	//	return text.replace(url, "<a href=\""  + url + "\">" + url + "</a>");
+	//} 
 	
-	else {
+	//else {
 		return text
-	}
+	//}
 }
 
 Typer.speed=1;
