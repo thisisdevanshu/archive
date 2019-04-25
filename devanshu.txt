@@ -3,13 +3,21 @@ anaconda3 notebooks sparktmp
 <span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b">~</span><span id="c">$</span> cd /Users/devanshusingh/About
 <span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b">~</span><span id="c">$</span> cat devanshu.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". 
-Hello, I am Devanshu Singh, a Computer Science graduate with a specialization in Machine Learning. I finished my Master’s in December, 2018 from the University of Florida, Gainesville.
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Hello there, I am Devanshu Singh, a Computer Science graduate with a specialization in Machine Learning. I finished my Master’s in December, 2018 from the University of Florida, Gainesville.
+<br>
+I have an experience of three years as a Software Engineer mostly in back-end and server technologies. I have built high-performance scalable products for early-stage startups using a vast breadth of tech stacks. I have also developed USSD (Unstructured Supplementary Services Data) products for various telecom operators of South and Southeast Asia. 
+<br>
+I, currently, work at Barclays, New York as a Data Science Developer. I work on models that help analysts at the investment bank predict the stock market and the world economy. 
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<p> Listing some of my projects, here: <br> 
+<a href="https://bitbucket.org/thisisdevanshu/elixir/src/master/proj4.1/bitcoin/">Cryptocurrency using blockchain</a> 
+<br> 
+<a href="https://bitbucket.org/thisisdevanshu/skynet/src/master/">Landmark detection using Deep Convolutional Neural Networks</a>
+<br> 
+<a href="https://bitbucket.org/thisisdevanshu/cap6610machinelearning/src/master/">Hyperspectral Image Segmentation using various clustering algorithms</a></p>
+
+More more projects visit <a href="https://www.linkedin.com/in/devanshusingh2/">Email</a>
+
+<!-- slightdelayhere-->Feel free to contat me at my email<!-- longlonglongcomment --><a href="thisisdevanshu@gmail.com">Email</a>.
 
 <p>Cheers!</p>
