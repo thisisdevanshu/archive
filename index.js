@@ -77,24 +77,11 @@ var Typer={
 		
 		if(cont.substring(cont.length-1,cont.length)=="|") 
 			$("#console").html($("#console").html().substring(0,cont.length-1)); 
-		
-		//else
-		//	this.write("|"); // else write it
 	}
 }
  
 function replaceUrls(text) {
-	//var http = text.indexOf("http://");
-	//var space = text.indexOf(".me ", http);
-	
-	//if (space != -1) { 
-	//	var url = text.slice(http, space-1);
-	//	return text.replace(url, "<a href=\""  + url + "\">" + url + "</a>");
-	//} 
-	
-	//else {
 		return text
-	//}
 }
 
 Typer.speed=1;
@@ -104,9 +91,5 @@ Typer.init();
 var timer = setInterval("t();", 30);
 function t() {
 	Typer.addText({"keyCode": 123748});
-	
-	/*if (Typer.index > Typer.text.length) {
-		clearInterval(timer);
-	}*/
 }
  
