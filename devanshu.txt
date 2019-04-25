@@ -1,5 +1,5 @@
 <span id="a">Devanshus-MBP:~ devanshusingh$</span> ls
-anaconda3 notebooks sparktmp <a href="https://github.com/thisisdevanshu/thisisdevanshu.github.io/raw/master/devanshu_resume.pdf">resume.pdf</a>
+anaconda3 notebooks sparktmp
 <span id="a">Devanshus-MBP:~ devanshusingh$</span> cd <!-- laglaglaglaglaglaglaglaglag -->/Users/devanshusingh/About
 <span id="a">Devanshus-MBP:~ devanshusingh$</span> cat devanshu.txt<br/>
 <p>Hello there,
