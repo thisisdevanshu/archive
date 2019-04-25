@@ -4,9 +4,9 @@ anaconda3 notebooks sparktmp
 <span id="a">Devanshus-MBP:~ devanshusingh$</span> cat devanshu.txt<br/>
 Hello there,
 I am <span id="a">Devanshu Singh</span>, a Computer Science graduate with a specialization in Machine Learning. I finished my Master’s in December, 2018 from the University of Florida, Gainesville.
-
+<!-- slightdelayhere-->
 I have an experience of three years as a Software Engineer mostly in back-end and server technologies. I have built high-performance scalable products for early-stage startups using a vast breadth of tech stacks. I have also developed USSD (Unstructured Supplementary Services Data) products for various telecom operators of South and Southeast Asia.
-
+<!-- slightdelayhere-->
 I, currently, work at Barclays, New York as a Data Science Developer. I work on models that help analysts at the investment bank predict the stock market and the world economy.
 <p> Listing some of my personal projects, here:
 <a href="https://bitbucket.org/thisisdevanshu/elixir/src/master/proj4.1/bitcoin/">1. Cryptocurrency using blockchain</a> 
