@@ -2,7 +2,7 @@
 anaconda3 notebooks sparktmp
 <span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b">~</span><span id="c">$</span> cd /Users/devanshusingh/About
 <span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b">~</span><span id="c">$</span> cat devanshu.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">Code for Everyone</span>". 
 Hello, I am Devanshu Singh, a Computer Science graduate with a specialization in Machine Learning. I finished my Master’s in December, 2018 from the University of Florida, Gainesville.
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
