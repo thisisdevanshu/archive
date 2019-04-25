@@ -1,19 +1,20 @@
-<span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b">~</span><span id="c">$</span>ls
+<span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b"> ls
 anaconda3 notebooks sparktmp
-<span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b">~</span><span id="c">$</span> cd /Users/devanshusingh/About
+<span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b"> cd /Users/devanshusingh/About
 <span id="a">Devanshus-MBP:~ devanshusingh$</span>:<span id="b">~</span><span id="c">$</span> cat devanshu.txt<br/>
-Hello there, I am Devanshu Singh, a Computer Science graduate with a specialization in Machine Learning. I finished my Master’s in December, 2018 from the University of Florida, Gainesville.
-<br>
+Hello there,
+I am <span id="a">Devanshu Singh</span>, a Computer Science graduate with a specialization in Machine Learning. I finished my Master’s in December, 2018 from the University of Florida, Gainesville.
+
 I have an experience of three years as a Software Engineer mostly in back-end and server technologies. I have built high-performance scalable products for early-stage startups using a vast breadth of tech stacks. I have also developed USSD (Unstructured Supplementary Services Data) products for various telecom operators of South and Southeast Asia. 
-<br>
+
 I, currently, work at Barclays, New York as a Data Science Developer. I work on models that help analysts at the investment bank predict the stock market and the world economy. 
 
-<p> Listing some of my projects, here:<br><a href="https://bitbucket.org/thisisdevanshu/elixir/src/master/proj4.1/bitcoin/">Cryptocurrency using blockchain</a> <br> 
-<a href="https://bitbucket.org/thisisdevanshu/skynet/src/master/">Landmark detection using Deep Convolutional Neural Networks</a><br> 
+<p> Listing some of my projects, here:<br>
+<a href="https://bitbucket.org/thisisdevanshu/elixir/src/master/proj4.1/bitcoin/">Cryptocurrency using blockchain</a> <br> 
+<a href="https://bitbucket.org/thisisdevanshu/skynet/src/master/">Landmark detection using Deep Convolutional Neural Networks</a> 
 <a href="https://bitbucket.org/thisisdevanshu/cap6610machinelearning/src/master/">Hyperspectral Image Segmentation using various clustering algorithms</a></p>
-
-More more projects visit <a href="https://www.linkedin.com/in/devanshusingh2/">LinkedIn</a>
+For more projects visit <a href="https://www.linkedin.com/in/devanshusingh2/">LinkedIn</a>
 
 <!-- slightdelayhere-->Feel free to contat me at my email <!-- longlonglongcomment --><a href="thisisdevanshu@gmail.com">Email</a>.
 
-<p>Cheers!</p>
+<p>Thanks.</p>
