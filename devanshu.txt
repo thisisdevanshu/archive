@@ -5,12 +5,13 @@ anaconda3 notebooks sparktmp
 <p>Hello there,
 I am <span id="a">Devanshu Singh</span>, a Computer Science graduate with a specialization in Machine Learning.<!-- laglaglaglaglaglaglaglaglag --> I finished my Master’s in December, 2018 from the University of Florida, Gainesville.
 <!-- laglaglaglaglaglaglaglaglag -->
-I have an experience of three years as a Software Engineer mostly in back-end and server technologies.<!-- laglaglaglaglaglaglaglaglag --> I have built high-performance scalable products for early-stage startups using a vast breadth of tech stacks.<!-- laglaglaglaglaglaglaglaglag --> I have also developed USSD (Unstructured Supplementary Services Data) products for various telecom operators of South and Southeast Asia.
+I have an experience of three years as a Software Engineer mostly in back-end and server technologies.<!-- laglaglaglaglaglaglaglaglag --> I have built high-performance scalable products for early-stage startups <!-- laglaglaglaglag --!> using a vast breadth of tech stacks.<!-- laglaglaglaglaglaglaglaglag --> I have also developed USSD (Unstructured Supplementary Services Data) products <!-- laglaglaglaglag --!> for various telecom operators of South and Southeast Asia.
 <!-- laglaglaglaglaglaglaglaglag -->
-I, currently, work at Barclays, New York as a Data Science Developer.<!-- laglaglaglaglaglaglaglaglag --> I work on models that help analysts at the investment bank predict the stock market and the world economy.<!-- laglaglaglaglaglaglaglaglag -->
+I, currently, work at Barclays, New York as a Data Science Developer.<!-- laglaglaglaglaglaglaglaglag --> I work on models that help analysts at the investment bank <!-- laglaglaglaglag --!> predict the stock market and the world economy.<!-- laglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglag -->
 Listing some of my personal projects, here:
 <a href="https://bitbucket.org/thisisdevanshu/elixir/src/master/proj4.1/bitcoin/" target="_blank">1. Cryptocurrency using blockchain</a> 
 <a href="https://bitbucket.org/thisisdevanshu/skynet/src/master/" target="_blank">2. Landmark detection using Deep Convolutional Neural Networks</a> 
 <a href="https://bitbucket.org/thisisdevanshu/cap6610machinelearning/src/master/" target="_blank">3. Hyperspectral Image Segmentation using various clustering algorithms</a></p>
-For more projects visit my <a href="https://www.linkedin.com/in/devanshusingh2/" target="_blank">LinkedIn</a><!-- slightdelayhere--> and feel free to contact me at my  <!-- longlonglongcomment --><a href="mailto:thisisdevanshu@gmail.com">email</a>.
+For more projects visit my <a href="https://www.linkedin.com/in/devanshusingh2/" target="_blank">LinkedIn</a><!-- slightdelayhere--> and feel free to contact me at my <a href="mailto:thisisdevanshu@gmail.com">email</a>.
 <p><!-- laglaglaglaglaglaglaglaglag -->Thanks.</p>
