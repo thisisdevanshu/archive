@@ -97,7 +97,7 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=2;
+Typer.speed=1;
 Typer.file="devanshu.txt";
 Typer.init();
  
