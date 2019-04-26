@@ -60,7 +60,7 @@ var Typer={
 			var rtn= new RegExp("\n", "g"); 
 	
 			$("#console").html(text.replace(rtn,"<br/>"));
-			//window.scrollBy(0,50); 
+			window.scrollBy(0,50); 
 		}
 		
 		if (key.preventDefault && key.keyCode != 122) { 
